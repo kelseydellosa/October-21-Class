@@ -1,0 +1,19 @@
+*{
+box-sizing: border-box; 
+}
+
+html, body{
+	min-height: 100%; 
+}
+
+h1{
+	color: #da241a; 
+	font-family: monospace;  
+}
+
+.ball{
+	width: 150px; 
+	height: 150px; 
+	background-color: coral;
+	border-radius: 50%; 
+}
